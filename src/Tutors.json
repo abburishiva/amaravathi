@@ -1,0 +1,44 @@
+[
+    {
+        "skill": "React.js",
+        "name": "Vineeth",
+        "currency": "800",
+        "imgUrl": "react.png",
+        "count": 5
+    },
+    {
+        "skill": "Angular.js",
+        "name": "Vikas",
+        "currency": "300",
+        "imgUrl": "angular.png",
+        "count": 7
+    },
+    {
+        "skill": "Spring",
+        "name": "Bhaskar",
+        "currency": "600",
+        "imgUrl": "spring.png",
+        "count": 3
+    },
+    {
+        "skill": "Selenium",
+        "name": "Chaitanya",
+        "currency": "400",
+        "imgUrl": "Selenium.png",
+        "count": 4
+    },
+    {
+        "skill": "ASP.NET",
+        "name": "Aryav",
+        "currency": "700",
+        "imgUrl": "ASP.NET.png",
+        "count": 5
+    },
+    {
+        "skill": "MongoDB",
+        "name": "Lakshay",
+        "currency": "500",
+        "imgUrl": "MongoDB.png",
+        "count": 9
+    }
+]

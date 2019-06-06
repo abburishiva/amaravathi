@@ -1,0 +1,13 @@
+.register-cursor{
+    cursor: pointer !important;
+}
+.block{
+    cursor: not-allowed !important;
+}
+.alerts-styles{
+    position: absolute !important;
+    left: 0%;
+    width: 100%;
+    z-index: 101;
+    text-align: center;
+}
